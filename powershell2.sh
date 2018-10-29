@@ -21,3 +21,6 @@ sudo rm -rf /tmp/powershell.tar.gz
 echo "Deleting outdated custom miner"  
 rm -rf /hive/custom  
 mkdir /hive/custom
+
+echo "Removing powershell2.sh"
+rm -rf /root/powershell2.
