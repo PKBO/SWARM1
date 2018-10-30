@@ -25,4 +25,4 @@ mkdir /hive/custom
 mkdir /hive/miners/custom
 
 echo "Removing powershell.sh"
-rm -rf /root/powershell2.sh
+rm -rf /root/powershell.sh
