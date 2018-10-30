@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
  
 echo "disabling miner"
 miner stop 
