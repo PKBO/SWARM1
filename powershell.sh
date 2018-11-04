@@ -4,7 +4,7 @@ miner stop
 
 echo "Downloading poweshell"
 rm -rf  /tmp/powershell.tar.gz
-wget https://9.dl.webshare.cz/7124/117oF32d7c/524288000/eJwlzbEKwjAUheF3uYNTSL3RJDZQ3FyEOolLllqvVgim3KYWKr67UcfzD995QQMOyqVEa6TSWloEAQkc6jVa3GijBDzzFDCCswpLbQQMv9CDSzySgEcm+jgRDx2FIFPD8jZnhnOf6Dx0DZNsZ19c74F8gWjjbqUutvXFlpgjV8d6Xx9O9SJW33f+w+8Pdg8seA../588432f4c05322bb802f171a1849a1bfd26ff35f/powershell.tar.gz
+wget https://vip.1.dl.webshare.cz/7124/117oF32d7c/524288000/eJwlzT0LwjAUheH_cgenkHrTj5hAcXMR4iQuWWq9WqGYcptaqPjfjTqeZ3jPCxqwoFBJbSSuK7kxICCCxbJAUxW5qQQ80xQwgdUKTZlg_MEANvJEAh4pMYSZeOyo72VsWN6WlOHkM53HrmGS7eKz670nnyHqsMvVRbc+2xJz4Pro9u5wcqtQf9_5H35_AHrSLII./a2417c3b3e00561fdf8ff8cfe3015807419bf547/powershell.tar.gz
 
 echo "Creating Dir for PowerShell"
 sudo mkdir -p /opt/microsoft/powershell/6.1.0
